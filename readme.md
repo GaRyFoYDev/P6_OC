@@ -15,7 +15,7 @@ Développement Backend en JavaScript
     API REST
     Sécurité OWASP et RGPD
 
-Faire fonction l'application
+Faire fonctionner l'application
 Cloner le Frontend
 
     Cloner le frontend de l'application.
