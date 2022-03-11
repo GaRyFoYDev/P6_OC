@@ -31,8 +31,8 @@ Cloner le Backend
 
 
 Template du fichier .env
-    PORT = "******"
 
+    PORT = "******"
     DB_USER = "******"
     DB_PASSWORD = "******"
     DB_HOST = "******"
